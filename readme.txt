@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is new tree software.
+Git is distributed a version control system.
+Git is tree software distributed under the GPL.
