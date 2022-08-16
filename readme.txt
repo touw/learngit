@@ -1,2 +1,2 @@
 Git is a version control system.
-Git is tree software.
+Git is new tree software.
